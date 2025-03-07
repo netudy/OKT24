@@ -26,8 +26,7 @@ Skapa en ny branch där du ska göra dina ändringar:
 ### 3. Redigera README.md
 Öppna filen `README.md` och gör följande ändringar:
 - Lägg till en beskrivning som berättar att detta repository används för kursen **Programmering 1**.
-- Förbättra filens format med rubriker, listor och andra markdown-element.
-- Ange kortfattat vad dina ändringar handlar om.
+- Översätt till engelska.
 
 ### 4. Committa Ändringarna
 Lägg till filen och skapa en commit med ett beskrivande meddelande:
