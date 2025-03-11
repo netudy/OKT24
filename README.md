@@ -1,9 +1,18 @@
 # Programmering 1 - Git Övning
+# Programmering 1 - Git Övning
+Detta repository används för kursen Programmering 1. Här övar vi på Git och GitHub.
 
+# Programming 1 - Git Exercise
+This repository is used for the course Programming 1. Here, we practice Git and GitHub.
 Välkommen till övningen för kursen **Programmering 1**!
 
 ## Syfte
+# Programmering 1 - Git Övning
+Detta repository används för kursen Programmering 1. Här övar vi på Git och GitHub.
 
+# Programming 1 - Git Exercise
+
+This repository is used for the course Programming 1. Here, we practice Git and GitHub.
 Denna övning syftar till att ge dig praktisk erfarenhet av att arbeta med Git. Du kommer att:
 - Klona ett repository
 - Skapa en ny branch
