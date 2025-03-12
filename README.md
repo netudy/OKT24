@@ -1,54 +1,33 @@
-# Programmering 1 - Git Övning
+Instruktioner
+Uppgift: Skapa ett Python-program och ladda upp det på GitHub
+Mål:
+Du ska skriva ett Python-program som tar in information från användaren, bearbetar den och skriver ut ett resultat. När programmet är klart ska du ladda upp det på GitHub och skapa en pull request i OKT24-repot.
 
-Välkommen till övningen för kursen **Programmering 1**!
+Uppgiftens steg:
+1. Skriv ett Python-program
+Skapa en ny Python-fil (uppgift.py) och skriv ett program som:
 
-## Syfte
+Ber användaren att skriva in sitt namn och ålder.
+Beräknar vilket år användaren fyller 100 år.
+Skriver ut resultatet på skärmen.
+Exempel på hur programmet kan fungera:
 
-Denna övning syftar till att ge dig praktisk erfarenhet av att arbeta med Git. Du kommer att:
-- Klona ett repository
-- Skapa en ny branch
-- Ändra och committa i en README.md fil
-- Lägga till din lärare som reviewer
-- Skapa en pull request
-
-## Instruktioner
-
-### 1. Klona Repositoryt
-Klona repot till din lokala maskin med följande kommando:
-
-    git clone git@github.com:netudy/OKT24.git
-
-### 2. Skapa en Ny Branch
-Skapa en ny branch där du ska göra dina ändringar:
-
-    git checkout -b din-branch-namn
-
-### 3. Redigera README.md
-Öppna filen `README.md` och gör följande ändringar:
-- Lägg till en beskrivning som berättar att detta repository används för kursen **Programmering 1**.
-- Översätt till engelska.
-
-### 4. Committa Ändringarna
-Lägg till filen och skapa en commit med ett beskrivande meddelande:
-
-    git add README.md
-    git commit -am "motivera varför du gjort följande ändringar"
-
-### 5. Push Branch
-Skicka din nya branch till GitHub:
-
-    git push origin din-branch-namn
-
-### 6. Skapa en Pull Request
-- Gå till GitHub och skapa en pull request från din branch mot `main`-branchen.
-- Lägg till din lärare som reviewer.
-- Skriv en kort beskrivning av dina ändringar.
-
-## Checklista
-- [ ] Repositoryt är klonat korrekt
-- [ ] En ny branch har skapats och används
-- [ ] README.md har uppdaterats med kursinformation och instruktioner
-- [ ] Ändringarna är committade och pushade
-- [ ] En pull request har skapats med lärare som reviewer
-
-Lycka till med övningen!
+Vad heter du? Alice
+Hur gammal är du? 25
+Hej Alice, du kommer att fylla 100 år, år 2100.
+2. Ladda upp koden på GitHub
+Clona repot OKT24.
+Lägg till din Python-fil i ditt clonade repo.
+Gör en commit med ett beskrivande meddelande
+Push din kod till GitHub.
+3. Skapa en Pull Request (PR)
+Gå till OKT24-repot på GitHub.
+Klicka på “Compare & pull request”.
+Skriv en kort beskrivning av vad du gjort och varför.
+Skicka in din pull request.
+Bedömning:
+✅ Programmet fungerar som det ska.
+✅ Koden är tydlig och välstrukturerad.
+✅ Pull Request är korrekt skapad.
+Lycka till! 🚀
+Behöver du hjälp? Fråga en klasskamrat
