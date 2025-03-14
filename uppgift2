@@ -1,0 +1,17 @@
+#Fråga användaren om deras födelseår och konvertera svaret till ett heltal
+#Beräkna året då användaren fyller 100 år genom att lägga till 100 till födelseåret
+#Fråga användaren om deras ålder och konvertera svaret till ett heltal
+#Fråga användaren om deras namn (behöver inte konverteras till heltal)
+
+
+
+
+
+
+a = int(input("vilket år är du född? "))
+b = a + 100
+c = int(input("hur gammal är du? "))
+d = input("vad heter du?")
+print ("hej",d ,"du är",c , "år gammal, och fyller hundra år", 
+
+
