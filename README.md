@@ -1,54 +1,54 @@
-# Programmering 1 - Git Övning
+# Programming 1 - Git Exercise
 
-Välkommen till övningen för kursen **Programmering 1**!
+Welcome to the exercise for the course **Programming 1**!
 
-## Syfte
+## Purpose
 
-Denna övning syftar till att ge dig praktisk erfarenhet av att arbeta med Git. Du kommer att:
-- Klona ett repository
-- Skapa en ny branch
-- Ändra och committa i en README.md fil
-- Lägga till din lärare som reviewer
-- Skapa en pull request
+This exercise aims to give you practical experience working with Git. You will:
+- Clone a repository
+- Create a new branch
+- Change and commit in a README.md file
+- Add your teacher as a reviewer
+- Create a pull request
 
-## Instruktioner
+## Instructions
 
-### 1. Klona Repositoryt
-Klona repot till din lokala maskin med följande kommando:
+### 1. Clone the Repository
+Clone the repository to your local machine with the following command:
 
-    git clone git@github.com:netudy/OKT24.git
+git clone git@github.com:netudy/OKT24.git
 
-### 2. Skapa en Ny Branch
-Skapa en ny branch där du ska göra dina ändringar:
+### 2. Create a New Branch
+Create a new branch where you will make your changes:
 
-    git checkout -b din-branch-namn
+git checkout -b your-branch-name
 
-### 3. Redigera README.md
-Öppna filen `README.md` och gör följande ändringar:
-- Lägg till en beskrivning som berättar att detta repository används för kursen **Programmering 1**.
-- Översätt till engelska.
+### 3. Edit README.md
+Open the file `README.md` and make the following changes:
+- Add a description that tells you that this repository is used for the course **Programming 1**.
+- Translate to English.
 
-### 4. Committa Ändringarna
-Lägg till filen och skapa en commit med ett beskrivande meddelande:
+### 4. Commit the Changes
+Add the file and create a commit with a descriptive message:
 
-    git add README.md
-    git commit -am "motivera varför du gjort följande ändringar"
+git add README.md
+git commit -am "justify why you made the following changes"
 
 ### 5. Push Branch
-Skicka din nya branch till GitHub:
+Send your new branch to GitHub:
 
-    git push origin din-branch-namn
+git push origin your-branch-name
 
-### 6. Skapa en Pull Request
-- Gå till GitHub och skapa en pull request från din branch mot `main`-branchen.
-- Lägg till din lärare som reviewer.
-- Skriv en kort beskrivning av dina ändringar.
+### 6. Create a Pull Request
+- Go to GitHub and create a pull request from your branch to the `main` branch.
+- Add your teacher as a reviewer.
+- Write a short description of your changes.
 
-## Checklista
-- [ ] Repositoryt är klonat korrekt
-- [ ] En ny branch har skapats och används
-- [ ] README.md har uppdaterats med kursinformation och instruktioner
-- [ ] Ändringarna är committade och pushade
-- [ ] En pull request har skapats med lärare som reviewer
+## Checklist
+- [x] The repository is cloned correctly
+- [x] A new branch has been created and is being used
+- [x] README.md has been updated with course information and instructions
+- [x] The changes have been committed and pushed
+- [x] A pull request has been created with the teacher as a reviewer
 
-Lycka till med övningen!
+Good luck with the exercise!
